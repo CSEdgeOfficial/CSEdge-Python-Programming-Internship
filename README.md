@@ -5,7 +5,7 @@ Title: CSEdge Python Programming Internship Tasks <br>
 Subtitle: CSEdge Internship Program <br>
 Author: Team CSEdge <br>
 Level: Easy, Medium, Hard <br>
-Questions per Level: 4 <br>a
+Questions per Level: 4 <br>
 Total Questions: 12 <br>
 Last Modified Date: 04/06/2024 
 
