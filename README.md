@@ -92,7 +92,7 @@ Basic Chatbot with NLTK:
 2. Basic Chatbot with NLTK:
 
 - Build a simple chatbot using Natural Language Toolkit (NLTK) for text processing and response generation. The chatbot should be able to engage in basic conversation and answer frequently asked questions.
-Task Management Web App with Flask:
+
 
 3. Task Management Web App with Flask:
 
