@@ -32,12 +32,12 @@ Initialize a new repository on your Github account called 'CSEdge Python Program
 
 1. Link the remote repository to your local project folder:
   ```
-  git remote add origin &lt;your_repository_url>
+  git remote add origin <your_repository_url>
   ```
 2. Add and commit your solution files:
   ```
   git add .
-  git commit -m "&lt;commit_message>"
+  git commit -m "<commit_message>"
   ```
 3. Push your solution to your personal repository:
   ```
